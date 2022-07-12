@@ -1,0 +1,1 @@
+In this repo, we are going to build a basic python application and run it in a docker container.
